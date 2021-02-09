@@ -1,0 +1,24 @@
+.bar1{
+    width:35%;
+    height:100%;
+    background-color:red;
+    position:absolute;
+    align-self: start;
+    
+}
+.bar2{
+    width:35%;
+    height:100%;
+    background-color: yellow;
+    position:absolute;
+    left: 450px;
+
+    
+}
+.bar3{
+    width:35%;
+    height:100%;
+    background-color: green;
+    position:absolute;
+    left:950px;
+}
